@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body align="center">
+
+<h1> MY SCRAPPAGE </h1>
+
+<p> who are me? </p>
+<p id ="fname" style="display:none;"> Rance </p>
+<button type="button" onclick = "document.getElementById('fname'). style.display ='block'"> Click me! </button>
+<button type="button" onclick = "document.getElementById('fname'). style.display ='none'"> Hide me! </button>
+
+<p> how old am I</p>
+<p id ="myage" style="display:none;"> 13 </p>
+<button type="button" onclick = "document.getElementById('myage'). style.display ='block'"> Click me! </button>
+<button type="button" onclick = "document.getElementById('myage'). style.display ='none'"> Hide me! </button>
+
+<p> who is my crush? </p>
+<p id ="mycrush" style="display:none;"> try again </p>
+<button type="button" onclick = "document.getElementById('mycrush'). style.display ='block'"> Click me! </button>
+<button type="button" onclick = "document.getElementById('mycrush'). style.display ='none'"> Hide me! </button>
